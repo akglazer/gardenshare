@@ -45,3 +45,4 @@ end
 
 
 gem 'io-console'
+gem 'mysql2'
